@@ -1,0 +1,33 @@
+
+{
+
+           "FILE_NAME": "Testing_groups",
+         "OUTPUT_DIR" : "/home/marajput/Desktop/TMP/",
+                "BINS": 5,
+           "%OUTLIERS": 15,
+         "HIDE_GROUPS":{ "Hist" : false, "Settings" : false},
+		   "GROUPS"   : [
+                  {
+                          "Path": ["/home/XYZ/XYZ/"],
+                       "VARIANT": [],
+                            "HW": [],
+                         "TASK" : [],
+                    "TRANSITION": {"Type1": [], "Type2": []},
+                          "TEST": [],
+                          "YEAR": [],
+                         "MONTH": []
+                  }
+           ,
+
+                  {
+                          "Path": ["/home/XYZ_1/XYZ_1/"],
+                       "VARIANT": [],
+                            "HW": [],
+                         "TASK" : [],
+                    "TRANSITION": {"Type1": [], "Type2": []},
+                          "TEST": [],
+                          "YEAR": [],
+                         "MONTH": []
+		          }
+		                 ]
+}

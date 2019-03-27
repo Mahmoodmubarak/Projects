@@ -1,0 +1,23 @@
+{
+
+           "FILE_NAME": "Testing",
+         "OUTPUT_DIR" : "/home/user/Desktop/TMP/",
+                "BINS": 5,
+           "%OUTLIERS": 15,
+         "HIDE_GROUPS":{ "Hist" : true, "Settings" : false},
+       "EXCLUDE_FILES": ["Testprocessor"],
+           "GROUPS"   : [
+
+                  {
+                          "Path": ["/home/XYZ/XYZ/"],
+                       "VARIANT": [],
+                            "HW": [],
+                         "TASK" : [],
+                    "TRANSITION": {},
+                          "TEST": [],
+                          "YEAR": [],
+                         "MONTH": [],
+                  "path_pattern":["12345*Awg*Verification"]
+                  }
+                                 ]
+}
